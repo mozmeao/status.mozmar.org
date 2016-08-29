@@ -1,4 +1,5 @@
+.DS_Store
 .env*
-lambda.zip
+lambda-*.zip
 venv
 status.yml

@@ -3,12 +3,12 @@ from decouple import config
 DEBUG = config('DEBUG', default=True, cast=bool)
 VERSION = config('GIT_SHA', default='')
 
-GITHUB_USERNAME = config('GITHUB_USERNAME')
-GITHUB_PASSWORD = config('GITHUB_PASSWORD')
+GITHUB_TOKEN = config('GITHUB_TOKEN')
 GITHUB_ORG = config('GITHUB_ORG')
 GITHUB_REPOSITORY = config('GITHUB_REPOSITORY')
 
-STATUS_FILE = 'status.yml'
+BRANCH = config('BRANCH', default='master')
+STATUS_FILE = config('STATUS_FILE', default='docs/status.yml')
 
 DMS_URL = 'https://api.deadmanssnitch.com/v1/snitches'
 DMS_API_KEY = config('DMS_API_KEY')
@@ -16,7 +16,7 @@ DMS_API_KEY = config('DMS_API_KEY')
 NEW_RELIC_API_KEY = config('NEW_RELIC_API_KEY')
 NEW_RELIC_QUERY_KEY = config('NEW_RELIC_QUERY_KEY')
 
-DMS_PING_URL = config('DMS_PING_URL')
+DMS_PING_URL = config('DMS_PING_URL', default=None)
 
 SENTRY_DSN = config('SENTRY_DSN', default=None)
 

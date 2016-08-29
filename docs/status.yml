@@ -49,7 +49,7 @@ components:
     status: healthy
     type: deadmanssnitch
   dms-3ea402d1d7:
-    display: true
+    display: false
     group: null
     id: dms-3ea402d1d7
     link: ''
@@ -389,7 +389,7 @@ components:
     status: healthy
     type: newrelic
   nr-13792729:
-    display: true
+    display: false
     group: mozilla.org
     id: nr-13792729
     link: ''
@@ -424,10 +424,11 @@ components:
     type: newrelic
   nr-16486292:
     display: true
-    group: null
+    group: mozilla.org
     id: nr-16486292
     link: ''
-    name: nucleus-prod-us-west
+    name: Nucleus Application US-West
+    order: 110
     status: healthy
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:
@@ -513,10 +514,10 @@ components:
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
-    group: null
+    group: mozilla.org
     id: synthetics-9340449f-adc3-4e14-bbb4-20c20caff847
     link: ''
-    name: Nucleus Prod
+    name: Nucleus Website (Prod)
     status: healthy
     type: synthetics
   synthetics-951acc95-95a6-4d27-aabc-2249f1fc286d:

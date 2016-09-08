@@ -72,7 +72,7 @@ components:
     link: ''
     name: Basket Stage Queue - EU-West
     order: 420
-    status: failed
+    status: paused
     type: deadmanssnitch
   dms-8166cac951:
     display: true
@@ -106,7 +106,7 @@ components:
     id: dms-d46cd45930
     link: ''
     name: Basket Stage Queue - US-West
-    status: failed
+    status: paused
     type: deadmanssnitch
   dms-e7b32a3078:
     display: true

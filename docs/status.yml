@@ -501,7 +501,7 @@ components:
     link: ''
     name: Website CDN
     order: 100
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762:
     display: true
@@ -581,7 +581,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:
     display: true
@@ -611,5 +611,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: All systems healthy
+  status: healthy

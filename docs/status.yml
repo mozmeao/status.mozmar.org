@@ -124,7 +124,7 @@ components:
     link: ''
     name: Periodic Tasks - US-West
     order: 120
-    status: failed
+    status: healthy
     type: deadmanssnitch
   nr-13674646:
     display: false
@@ -611,5 +611,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: All systems healthy
+  status: healthy

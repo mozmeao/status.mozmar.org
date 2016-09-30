@@ -432,7 +432,7 @@ components:
     status: healthy
     type: newrelic
   nr-18375214:
-    display: true
+    display: false
     group: null
     id: nr-18375214
     link: ''
@@ -440,7 +440,7 @@ components:
     status: pending
     type: newrelic
   nr-18380313:
-    display: true
+    display: false
     group: null
     id: nr-18380313
     link: ''

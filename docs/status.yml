@@ -200,7 +200,7 @@ components:
     link: ''
     name: Application EU-West
     order: 110
-    status: failed
+    status: healthy
     type: newrelic
   nr-13687900:
     display: true
@@ -311,7 +311,7 @@ components:
     link: ''
     name: Admin Application US-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13698376:
     display: false
@@ -319,7 +319,7 @@ components:
     id: nr-13698376
     link: ''
     name: basket-admin-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701297:
     display: false
@@ -579,7 +579,7 @@ components:
     link: ''
     name: Website
     order: 400
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true

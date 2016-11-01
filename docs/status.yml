@@ -597,7 +597,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:
     display: true

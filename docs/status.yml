@@ -370,7 +370,7 @@ components:
     status: healthy
     type: newrelic
   nr-13778280:
-    display: true
+    display: false
     group: Browser Compatibility
     id: nr-13778280
     link: ''

@@ -472,7 +472,7 @@ components:
     link: https://snippets-stats.us-west.moz.works
     name: Website Snippets Stats US-West
     order: 305
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-5d0b1ecd-f547-4d43-9fda-92006a63d3ce:
     display: true
@@ -526,7 +526,7 @@ components:
     link: ''
     name: Website US-west
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
@@ -534,7 +534,7 @@ components:
     id: synthetics-9340449f-adc3-4e14-bbb4-20c20caff847
     link: ''
     name: Nucleus Website (Prod)
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-951acc95-95a6-4d27-aabc-2249f1fc286d:
     display: true
@@ -543,7 +543,7 @@ components:
     link: ''
     name: MozMar Status Board
     order: 1500
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-ac74913d-4bb5-4ed5-8585-89065027764f:
     display: true
@@ -588,7 +588,7 @@ components:
     link: https://snippets-stats.eu-west.moz.works
     name: Website Snippets Stats EU-West
     order: 305
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-e1226346-99fa-4de3-bafd-9a8700852896:
     display: true
@@ -597,7 +597,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:
     display: true

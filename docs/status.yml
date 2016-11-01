@@ -463,7 +463,7 @@ components:
     link: ''
     name: Website
     order: 600
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124:
     display: true
@@ -499,7 +499,7 @@ components:
     link: ''
     name: Website
     order: 500
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-7e1ae044-0662-4bd4-8ae8-82eb0c09e679:
     display: true
@@ -517,7 +517,7 @@ components:
     link: ''
     name: Website CDN
     order: 100
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762:
     display: true
@@ -579,7 +579,7 @@ components:
     link: ''
     name: Website
     order: 400
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true

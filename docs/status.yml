@@ -470,7 +470,7 @@ components:
     link: ''
     name: Website CDN
     order: 300
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128:
     display: true
@@ -479,7 +479,7 @@ components:
     link: ''
     name: Website
     order: 600
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124:
     display: true
@@ -506,7 +506,7 @@ components:
     link: ''
     name: Website US-West
     order: 500
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-7d70135e-afcd-4c31-bb15-93e3799eeec1:
     display: true
@@ -542,7 +542,7 @@ components:
     link: ''
     name: Website US-west
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
@@ -586,7 +586,7 @@ components:
     link: ''
     name: Website US-West
     order: 300
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-c88c9131-1412-4687-bd01-05193089dfce:
     display: true
@@ -613,7 +613,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:
     display: true
@@ -640,7 +640,7 @@ components:
     link: ''
     name: Website
     order: 800
-    status: healthy
+    status: warning
     type: synthetics
 globalStatus:
   message: Some systems are experiencing issues

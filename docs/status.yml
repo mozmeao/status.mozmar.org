@@ -54,7 +54,7 @@ components:
     id: dms-3ea402d1d7
     link: ''
     name: Status Board Update (Stage)
-    status: failed
+    status: healthy
     type: deadmanssnitch
   dms-6eb44fe994:
     display: true
@@ -106,7 +106,7 @@ components:
     id: dms-b6a8280917
     link: ''
     name: Status Board Update
-    status: failed
+    status: healthy
     type: deadmanssnitch
   dms-d46cd45930:
     display: false
@@ -643,5 +643,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

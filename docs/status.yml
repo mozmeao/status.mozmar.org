@@ -302,7 +302,7 @@ components:
     link: ''
     name: Application US-West
     order: 110
-    status: healthy
+    status: warning
     type: newrelic
   nr-13688101:
     display: false
@@ -643,5 +643,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are experiencing issues
+  status: warning

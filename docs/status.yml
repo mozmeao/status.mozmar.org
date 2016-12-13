@@ -550,7 +550,7 @@ components:
     link: ''
     name: Website US-west
     order: 100
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
@@ -651,5 +651,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

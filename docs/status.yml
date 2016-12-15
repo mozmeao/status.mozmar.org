@@ -216,7 +216,7 @@ components:
     link: ''
     name: Application EU-West
     order: 110
-    status: healthy
+    status: failed
     type: newrelic
   nr-13687900:
     display: true
@@ -648,7 +648,7 @@ components:
     link: ''
     name: Website
     order: 800
-    status: healthy
+    status: failed
     type: synthetics
 globalStatus:
   message: Some systems are in trouble

@@ -532,7 +532,7 @@ components:
     link: ''
     name: Website EU-West
     order: 301
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-81a0480c-5c13-4539-8063-a38472f3d2d2:
     display: true
@@ -576,7 +576,7 @@ components:
     link: ''
     name: Admin Website
     order: 301
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-b0b0f46e-a391-45c9-af80-38704cb883f8:
     display: true

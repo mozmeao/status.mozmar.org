@@ -164,7 +164,7 @@ components:
     id: nr-13687560
     link: ''
     name: snippets-stage-eu-west
-    status: failed
+    status: warning
     type: newrelic
   nr-13687580:
     display: true

@@ -228,7 +228,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687919:
-    display: true
+    display: false
     group: Master Firefox OS
     id: nr-13687919
     link: ''
@@ -642,7 +642,7 @@ components:
     status: healthy
     type: synthetics
   synthetics-fa7e6830-e431-4b82-8add-dad5731f7b80:
-    display: true
+    display: false
     group: Master Firefox OS
     id: synthetics-fa7e6830-e431-4b82-8add-dad5731f7b80
     link: ''

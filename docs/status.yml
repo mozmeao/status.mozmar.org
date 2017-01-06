@@ -648,8 +648,8 @@ components:
     link: ''
     name: Website
     order: 800
-    status: healthy
+    status: failed
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

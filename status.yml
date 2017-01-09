@@ -1,7 +1,7 @@
 components:
   dms-033e342441:
-    display: true
-    group: null
+    display: false
+    group: Snippets Service
     id: dms-033e342441
     link: ''
     name: Snippets Stage Update Product Details
@@ -9,7 +9,7 @@ components:
     type: deadmanssnitch
   dms-078f7f5a2f:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-078f7f5a2f
     link: ''
     name: CloudFlare to Datadog Sync
@@ -17,38 +17,39 @@ components:
     type: deadmanssnitch
   dms-16e219cc55:
     display: true
-    group: null
+    group: Basket
     id: dms-16e219cc55
     link: ''
-    name: Basket Prod Queue - EU West
+    name: Queue EU-West
+    order: 420
     status: healthy
     type: deadmanssnitch
   dms-2b20aff8d3:
-    display: true
-    group: null
+    display: false
+    group: Mozilla Careers
     id: dms-2b20aff8d3
     link: ''
-    name: Careers Sync Greenhouse Stage
+    name: Careers GreenHouse Sync Stage
     status: healthy
     type: deadmanssnitch
   dms-2f4d809f94:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-2f4d809f94
     link: ''
-    name: Docker Cleanup Service - EU West
+    name: Docker Cleanup Service - EU-West
     status: healthy
     type: deadmanssnitch
   dms-3026bce6d3:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-3026bce6d3
     link: ''
-    name: Docker Cleanup Service - US West
+    name: Docker Cleanup Service - US-West
     status: healthy
     type: deadmanssnitch
   dms-3ea402d1d7:
-    display: true
+    display: false
     group: null
     id: dms-3ea402d1d7
     link: ''
@@ -57,86 +58,93 @@ components:
     type: deadmanssnitch
   dms-6b7c1eb19f:
     display: true
-    group: null
+    group: Basket
     id: dms-6b7c1eb19f
     link: ''
-    name: Basket Prod Donate Queue
+    name: Donate Queue
+    order: 420
     status: healthy
     type: deadmanssnitch
   dms-6eb44fe994:
     display: true
-    group: null
+    group: Basket
     id: dms-6eb44fe994
     link: ''
-    name: Basket Prod Queue - US West
+    name: Queue US-West
+    order: 420
     status: healthy
     type: deadmanssnitch
   dms-7311a3e4db:
-    display: true
-    group: null
+    display: false
+    group: Basket
     id: dms-7311a3e4db
     link: ''
-    name: Basket Stage Queue - EU West
+    name: Basket Stage Queue - EU-West
+    order: 420
     status: healthy
     type: deadmanssnitch
   dms-8166cac951:
     display: true
-    group: null
+    group: Snippets Service
     id: dms-8166cac951
     link: ''
-    name: Snippets Prod Update Product Details
+    name: Update Product Details
+    order: 320
     status: healthy
     type: deadmanssnitch
   dms-943d73ab83:
     display: true
-    group: null
+    group: Mozilla Careers
     id: dms-943d73ab83
     link: ''
-    name: Careers Sync Greenhouse Prod
+    name: Greenhouse Syn2ng
+    order: 520
     status: healthy
     type: deadmanssnitch
   dms-a79f0023f0:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-a79f0023f0
     link: ''
-    name: Docker cleanup @ ci.usw
+    name: Docker Cleanup Service @ ci.usw
     status: healthy
     type: deadmanssnitch
   dms-b6a8280917:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-b6a8280917
     link: ''
-    name: Status Board Update (Prod)
-    status: healthy
+    name: Status Board Update
+    status: paused
     type: deadmanssnitch
   dms-d46cd45930:
-    display: true
-    group: null
+    display: false
+    group: Basket
     id: dms-d46cd45930
     link: ''
-    name: Basket Stage Queue - US West
+    name: Basket Stage Queue - US-West
     status: healthy
     type: deadmanssnitch
   dms-e7b32a3078:
     display: true
-    group: null
+    group: mozilla.org
     id: dms-e7b32a3078
     link: ''
-    name: Run Periodic Tasks - EU West
+    name: Periodic Tasks - EU-West
+    order: 120
     status: healthy
     type: deadmanssnitch
   dms-ed6363a1ed:
     display: true
-    group: null
+    group: mozilla.org
     id: dms-ed6363a1ed
     link: ''
-    name: Run Periodic Tasks - US West
+    name: Periodic Tasks - US-West
+    order: 120
     status: healthy
     type: deadmanssnitch
   nr-13674646:
-    display: true
+    display: false
     group: null
     id: nr-13674646
     link: ''
@@ -144,7 +152,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687503:
-    display: true
+    display: false
     group: null
     id: nr-13687503
     link: ''
@@ -152,7 +160,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687560:
-    display: true
+    display: false
     group: null
     id: nr-13687560
     link: ''
@@ -161,14 +169,15 @@ components:
     type: newrelic
   nr-13687580:
     display: true
-    group: null
+    group: Mozilla Careers
     id: nr-13687580
     link: ''
-    name: careers-prod-eu-west
+    name: Application EU-West
+    order: 510
     status: healthy
     type: newrelic
   nr-13687607:
-    display: true
+    display: false
     group: null
     id: nr-13687607
     link: ''
@@ -176,7 +185,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687628:
-    display: true
+    display: false
     group: null
     id: nr-13687628
     link: ''
@@ -185,38 +194,42 @@ components:
     type: newrelic
   nr-13687653:
     display: true
-    group: null
+    group: Basket
     id: nr-13687653
     link: ''
-    name: basket-prod-eu-west
+    name: Application EU-West
+    order: 410
     status: healthy
     type: newrelic
   nr-13687704:
     display: true
-    group: null
+    group: Snippets Service
     id: nr-13687704
     link: ''
-    name: snippets-prod-eu-west
+    name: Application EU-West
+    order: 310
     status: healthy
     type: newrelic
   nr-13687785:
     display: true
-    group: null
+    group: mozilla.org
     id: nr-13687785
     link: ''
-    name: bedrock-prod-eu-west
+    name: Application EU-West
+    order: 110
     status: healthy
     type: newrelic
   nr-13687900:
     display: true
-    group: null
+    group: Mozilla Careers
     id: nr-13687900
     link: ''
-    name: careers-prod-us-west
+    name: Application US-West
+    order: 510
     status: healthy
     type: newrelic
   nr-13687960:
-    display: true
+    display: false
     group: null
     id: nr-13687960
     link: ''
@@ -224,7 +237,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687969:
-    display: true
+    display: false
     group: null
     id: nr-13687969
     link: ''
@@ -232,7 +245,7 @@ components:
     status: healthy
     type: newrelic
   nr-13687975:
-    display: true
+    display: false
     group: null
     id: nr-13687975
     link: ''
@@ -241,22 +254,24 @@ components:
     type: newrelic
   nr-13687987:
     display: true
-    group: null
+    group: Snippets Service
     id: nr-13687987
     link: ''
-    name: snippets-prod-us-west
+    name: Application US-West
+    order: 310
     status: healthy
     type: newrelic
   nr-13688011:
     display: true
-    group: null
+    group: Snippets Service
     id: nr-13688011
     link: ''
-    name: snippets-admin-us-west
+    name: Admin Application US-West
+    order: 310
     status: healthy
     type: newrelic
   nr-13688024:
-    display: true
+    display: false
     group: null
     id: nr-13688024
     link: ''
@@ -265,22 +280,24 @@ components:
     type: newrelic
   nr-13688032:
     display: true
-    group: null
+    group: Basket
     id: nr-13688032
     link: ''
-    name: basket-prod-us-west
+    name: Application US-West
+    order: 410
     status: healthy
     type: newrelic
   nr-13688073:
     display: true
-    group: null
+    group: mozilla.org
     id: nr-13688073
     link: ''
-    name: bedrock-prod-us-west
+    name: Application US-West
+    order: 110
     status: healthy
     type: newrelic
   nr-13688101:
-    display: true
+    display: false
     group: null
     id: nr-13688101
     link: ''
@@ -289,14 +306,15 @@ components:
     type: newrelic
   nr-13688108:
     display: true
-    group: null
+    group: Basket
     id: nr-13688108
     link: ''
-    name: basket-admin-us-west
+    name: Admin Application US-West
+    order: 410
     status: healthy
     type: newrelic
   nr-13698376:
-    display: true
+    display: false
     group: null
     id: nr-13698376
     link: ''
@@ -304,7 +322,7 @@ components:
     status: healthy
     type: newrelic
   nr-13701297:
-    display: true
+    display: false
     group: null
     id: nr-13701297
     link: ''
@@ -312,7 +330,7 @@ components:
     status: healthy
     type: newrelic
   nr-13701320:
-    display: true
+    display: false
     group: null
     id: nr-13701320
     link: ''
@@ -320,7 +338,7 @@ components:
     status: healthy
     type: newrelic
   nr-13708399:
-    display: true
+    display: false
     group: null
     id: nr-13708399
     link: ''
@@ -328,7 +346,7 @@ components:
     status: healthy
     type: newrelic
   nr-13708738:
-    display: true
+    display: false
     group: null
     id: nr-13708738
     link: ''
@@ -336,7 +354,7 @@ components:
     status: healthy
     type: newrelic
   nr-13710560:
-    display: true
+    display: false
     group: null
     id: nr-13710560
     link: ''
@@ -344,47 +362,52 @@ components:
     status: healthy
     type: newrelic
   nr-13778280:
-    display: true
-    group: null
+    display: false
+    group: Browser Compatibility
     id: nr-13778280
     link: ''
-    name: browsercompat.herokuapp.com
+    name: Application (Heroku)
+    order: 700
     status: pending
     type: newrelic
   nr-13782058:
     display: true
-    group: null
+    group: Mozilla Developer Network
     id: nr-13782058
     link: ''
-    name: developer.mozilla.org
+    name: Application
+    order: 210
     status: healthy
     type: newrelic
   nr-13786029:
     display: true
-    group: null
+    group: Mozilla Developer Network
     id: nr-13786029
     link: ''
-    name: developer.mozilla.org-kumascript
+    name: Kumascript Application
+    order: 210
     status: healthy
     type: newrelic
   nr-13792729:
-    display: true
-    group: null
+    display: false
+    group: mozilla.org
     id: nr-13792729
     link: ''
-    name: nucleus-sugar-us-west
+    name: Nucleus Application US-West
+    order: 110
     status: pending
     type: newrelic
   nr-13801074:
     display: true
-    group: null
+    group: Mozilla Support
     id: nr-13801074
     link: ''
-    name: support.mozilla.org
+    name: Application
+    order: 610
     status: healthy
     type: newrelic
   nr-13851870:
-    display: true
+    display: false
     group: null
     id: nr-13851870
     link: ''
@@ -392,7 +415,7 @@ components:
     status: healthy
     type: newrelic
   nr-16405643:
-    display: true
+    display: false
     group: null
     id: nr-16405643
     link: ''
@@ -401,14 +424,15 @@ components:
     type: newrelic
   nr-16486292:
     display: true
-    group: null
+    group: mozilla.org
     id: nr-16486292
     link: ''
-    name: nucleus-prod-us-west
+    name: Nucleus Application US-West
+    order: 110
     status: healthy
     type: newrelic
   nr-18375214:
-    display: true
+    display: false
     group: null
     id: nr-18375214
     link: ''
@@ -416,7 +440,7 @@ components:
     status: pending
     type: newrelic
   nr-18380313:
-    display: true
+    display: false
     group: null
     id: nr-18380313
     link: ''
@@ -424,7 +448,7 @@ components:
     status: healthy
     type: newrelic
   nr-20955446:
-    display: true
+    display: false
     group: null
     id: nr-20955446
     link: ''
@@ -433,154 +457,172 @@ components:
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f
     link: ''
-    name: Snippets CDN
+    name: Website CDN
+    order: 300
     status: healthy
     type: synthetics
   synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128:
     display: true
-    group: null
+    group: Mozilla Support
     id: synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128
     link: ''
-    name: support.mozilla.org
+    name: Website
+    order: 600
     status: healthy
     type: synthetics
   synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124
-    link: ''
-    name: Snippets Stats US-West
+    link: https://snippets-stats.us-west.moz.works
+    name: Website Snippets Stats US-West
+    order: 305
     status: healthy
     type: synthetics
   synthetics-5d0b1ecd-f547-4d43-9fda-92006a63d3ce:
     display: true
-    group: null
+    group: Mozilla Careers
     id: synthetics-5d0b1ecd-f547-4d43-9fda-92006a63d3ce
     link: ''
-    name: Careers EU-West
+    name: Website EU-West
+    order: 501
     status: healthy
     type: synthetics
   synthetics-615be5db-81f3-462b-903f-a19afdfc19bf:
     display: true
-    group: null
+    group: Mozilla Careers
     id: synthetics-615be5db-81f3-462b-903f-a19afdfc19bf
     link: ''
-    name: Careers US-West
+    name: Website US-West
+    order: 500
     status: healthy
     type: synthetics
   synthetics-7d70135e-afcd-4c31-bb15-93e3799eeec1:
     display: true
-    group: null
+    group: Mozilla Careers
     id: synthetics-7d70135e-afcd-4c31-bb15-93e3799eeec1
     link: ''
-    name: careers.mozilla.org
+    name: Website
+    order: 500
     status: healthy
     type: synthetics
   synthetics-7e1ae044-0662-4bd4-8ae8-82eb0c09e679:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-7e1ae044-0662-4bd4-8ae8-82eb0c09e679
     link: ''
-    name: Snippets Prod EU-West
+    name: Website EU-West
+    order: 301
     status: healthy
     type: synthetics
   synthetics-81a0480c-5c13-4539-8063-a38472f3d2d2:
     display: true
-    group: null
+    group: mozilla.org
     id: synthetics-81a0480c-5c13-4539-8063-a38472f3d2d2
     link: ''
-    name: www.mozilla.org
+    name: Website CDN
+    order: 100
     status: healthy
     type: synthetics
   synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762:
     display: true
-    group: null
+    group: mozilla.org
     id: synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762
     link: ''
-    name: Bedrock Prod US-west
+    name: Website US-west
+    order: 100
     status: healthy
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
-    group: null
+    group: mozilla.org
     id: synthetics-9340449f-adc3-4e14-bbb4-20c20caff847
     link: ''
-    name: Nucleus Prod
+    name: Nucleus Website (Prod)
     status: healthy
     type: synthetics
   synthetics-951acc95-95a6-4d27-aabc-2249f1fc286d:
     display: true
-    group: null
+    group: Infrastructure
     id: synthetics-951acc95-95a6-4d27-aabc-2249f1fc286d
     link: ''
     name: MozMar Status Board
+    order: 1500
     status: healthy
     type: synthetics
   synthetics-ac74913d-4bb5-4ed5-8585-89065027764f:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-ac74913d-4bb5-4ed5-8585-89065027764f
     link: ''
-    name: Snippets Admin
+    name: Admin Website
+    order: 301
     status: healthy
     type: synthetics
   synthetics-b0b0f46e-a391-45c9-af80-38704cb883f8:
     display: true
-    group: null
+    group: Mozilla Developer Network
     id: synthetics-b0b0f46e-a391-45c9-af80-38704cb883f8
     link: ''
-    name: MDN
+    name: Website
+    order: 200
     status: healthy
     type: synthetics
   synthetics-b51cc5e3-e9fd-4d65-afc1-f8c198e92cc3:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-b51cc5e3-e9fd-4d65-afc1-f8c198e92cc3
     link: ''
-    name: Snippets Prod US-West
+    name: Website US-West
+    order: 300
     status: healthy
     type: synthetics
   synthetics-c88c9131-1412-4687-bd01-05193089dfce:
     display: true
-    group: null
+    group: Basket
     id: synthetics-c88c9131-1412-4687-bd01-05193089dfce
     link: ''
-    name: Basket Prod
+    name: Website
+    order: 400
     status: healthy
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e
-    link: ''
-    name: Snippets Stats EU-West
+    link: https://snippets-stats.eu-west.moz.works
+    name: Website Snippets Stats EU-West
+    order: 305
     status: healthy
     type: synthetics
   synthetics-e1226346-99fa-4de3-bafd-9a8700852896:
     display: true
-    group: null
+    group: mozilla.org
     id: synthetics-e1226346-99fa-4de3-bafd-9a8700852896
     link: ''
-    name: Bedrock Prod EU-west
+    name: Website EU-West
+    order: 100
     status: healthy
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d
-    link: ''
-    name: Snippets Stats Server
+    link: https://snippets-stats.mozilla.org
+    name: Website Snippets Stats
+    order: 305
     status: healthy
     type: synthetics
   synthetics-f339b62e-8e17-4674-8027-0b3019f8a788:
     display: true
-    group: null
+    group: Basket
     id: synthetics-f339b62e-8e17-4674-8027-0b3019f8a788
     link: ''
-    name: Basket admin us-west
+    name: Admin Website US-West
+    order: 400
     status: healthy
     type: synthetics
 globalStatus:

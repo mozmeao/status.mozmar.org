@@ -58,11 +58,12 @@ components:
     type: deadmanssnitch
   dms-6b7c1eb19f:
     display: true
-    group: null
+    group: Basket
     id: dms-6b7c1eb19f
     link: ''
-    name: Basket Prod Donate Queue
+    name: Donate Queue
     status: healthy
+    order: 420
     type: deadmanssnitch
   dms-6eb44fe994:
     display: true

@@ -447,7 +447,7 @@ components:
     status: healthy
     type: newrelic
   nr-20955446:
-    display: true
+    display: false
     group: null
     id: nr-20955446
     link: ''

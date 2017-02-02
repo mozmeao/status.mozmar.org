@@ -34,7 +34,7 @@ components:
     type: deadmanssnitch
   dms-2c31a2545a:
     display: true
-    group: null
+    group: Infrastructure
     id: dms-2c31a2545a
     link: ''
     name: Jenkins Periodic Backup

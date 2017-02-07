@@ -406,7 +406,7 @@ components:
     status: healthy
     type: newrelic
   nr-13801074:
-    display: true
+    display: false
     group: Mozilla Support
     id: nr-13801074
     link: ''
@@ -473,7 +473,7 @@ components:
     status: healthy
     type: synthetics
   synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128:
-    display: true
+    display: false
     group: Mozilla Support
     id: synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128
     link: ''

@@ -71,7 +71,7 @@ components:
     link: ''
     name: Donate Queue
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-6eb44fe994:
     display: true
@@ -634,5 +634,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

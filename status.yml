@@ -22,7 +22,7 @@ components:
     link: ''
     name: Queue EU-West
     order: 420
-    status: paused
+    status: healthy
     type: deadmanssnitch
   dms-2b20aff8d3:
     display: false
@@ -71,7 +71,7 @@ components:
     link: ''
     name: Donate Queue
     order: 420
-    status: paused
+    status: healthy
     type: deadmanssnitch
   dms-6eb44fe994:
     display: true

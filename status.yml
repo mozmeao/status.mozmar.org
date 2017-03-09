@@ -465,10 +465,10 @@ components:
     type: newrelic
   nr-23656273:
     display: true
-    group: null
+    group: Snippets Service
     id: nr-23656273
     link: ''
-    name: snippets-prod-virginia
+    name: Application Virginia
     status: healthy
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:

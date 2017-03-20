@@ -619,7 +619,7 @@ components:
     link: ''
     name: Website
     order: 400
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true
@@ -658,5 +658,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

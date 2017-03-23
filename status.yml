@@ -469,7 +469,7 @@ components:
     id: nr-23656273
     link: ''
     name: Application Virginia
-    status: warning
+    status: healthy
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:
     display: true
@@ -650,5 +650,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: All systems healthy
+  status: healthy

@@ -385,7 +385,7 @@ components:
     link: ''
     name: Application
     order: 210
-    status: healthy
+    status: failed
     type: newrelic
   nr-13786029:
     display: true
@@ -650,5 +650,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

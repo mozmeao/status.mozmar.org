@@ -276,7 +276,7 @@ components:
     link: ''
     name: Admin Application US-West
     order: 310
-    status: healthy
+    status: failed
     type: newrelic
   nr-13688024:
     display: false
@@ -658,5 +658,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

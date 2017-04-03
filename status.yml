@@ -504,7 +504,7 @@ components:
     link: https://snippets-stats.us-west.moz.works
     name: Website Snippets Stats US-West
     order: 305
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-5d0b1ecd-f547-4d43-9fda-92006a63d3ce:
     display: true
@@ -666,5 +666,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: All systems healthy
+  status: healthy

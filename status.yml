@@ -561,10 +561,10 @@ components:
     type: synthetics
   synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe
     link: ''
-    name: Snippets Stats Tokyo
+    name: Website Snippets Stats Tokyo
     status: healthy
     type: synthetics
   synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762:
@@ -657,10 +657,10 @@ components:
     type: synthetics
   synthetics-e5fd4c88-4ccd-45af-b0d9-065026f089cd:
     display: true
-    group: null
+    group: Snippets Service
     id: synthetics-e5fd4c88-4ccd-45af-b0d9-065026f089cd
     link: ''
-    name: Snippets Stats Virginia
+    name: Website Snippets Stats Virginia
     status: healthy
     type: synthetics
   synthetics-e6d31da8-fc7d-419b-a7b4-1905e890201d:

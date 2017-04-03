@@ -481,18 +481,18 @@ components:
     type: newrelic
   nr-25359421:
     display: true
-    group: null
+    group: Mozilla Careers
     id: nr-25359421
     link: ''
-    name: careers-prod-virginia
+    name: Application Virginia
     status: healthy
     type: newrelic
   nr-25359551:
     display: true
-    group: null
+    group: Mozilla Careers
     id: nr-25359551
     link: ''
-    name: careers-prod-tokyo
+    name: Application Tokyo
     status: healthy
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:
@@ -515,10 +515,10 @@ components:
     type: synthetics
   synthetics-2d3b85bd-2d3b-439b-bf0f-9d0390008add:
     display: true
-    group: null
+    group: Mozilla Careers
     id: synthetics-2d3b85bd-2d3b-439b-bf0f-9d0390008add
     link: ''
-    name: Careers Tokyo
+    name: Website Tokyo
     status: healthy
     type: synthetics
   synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124:
@@ -672,10 +672,10 @@ components:
     type: synthetics
   synthetics-ce6d2674-186d-48a2-be1d-fd0066997ef1:
     display: true
-    group: null
+    group: Mozilla Careers
     id: synthetics-ce6d2674-186d-48a2-be1d-fd0066997ef1
     link: ''
-    name: Careers Virginia
+    name: Website Virginia
     status: healthy
     type: synthetics
   synthetics-e1226346-99fa-4de3-bafd-9a8700852896:

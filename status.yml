@@ -519,7 +519,7 @@ components:
     id: synthetics-2d3b85bd-2d3b-439b-bf0f-9d0390008add
     link: ''
     name: Website Tokyo
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-51f2ccb1-ac06-46df-b0ec-c4435c7f6124:
     display: true
@@ -714,5 +714,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

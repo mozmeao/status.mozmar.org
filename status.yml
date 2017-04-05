@@ -477,7 +477,7 @@ components:
     id: nr-24982923
     link: ''
     name: Application Tokyo
-    status: failed
+    status: warning
     type: newrelic
   nr-25359421:
     display: true

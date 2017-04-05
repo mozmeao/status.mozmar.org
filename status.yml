@@ -207,7 +207,7 @@ components:
     link: ''
     name: Application EU-West
     order: 410
-    status: failed
+    status: healthy
     type: newrelic
   nr-13687704:
     display: true
@@ -714,5 +714,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: All systems healthy
+  status: healthy

@@ -477,7 +477,7 @@ components:
     id: nr-24982923
     link: ''
     name: Application Tokyo
-    status: healthy
+    status: failed
     type: newrelic
   nr-25359421:
     display: true
@@ -714,5 +714,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

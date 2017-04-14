@@ -469,7 +469,7 @@ components:
     id: nr-23656273
     link: ''
     name: Application Virginia
-    status: healthy
+    status: failed
     type: newrelic
   nr-24982923:
     display: true

@@ -445,7 +445,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: healthy
+    status: failed
     type: newrelic
   nr-18375214:
     display: false

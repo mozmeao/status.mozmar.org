@@ -509,7 +509,7 @@ components:
     id: nr-27934018
     link: ''
     name: bedrock-dev-virginia
-    status: healthy
+    status: failed
     type: newrelic
   synthetics-1250de8e-25c2-4c85-a359-6b2a73294e1f:
     display: true
@@ -738,5 +738,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

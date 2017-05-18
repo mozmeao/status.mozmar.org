@@ -558,7 +558,7 @@ components:
     link: ''
     name: Website CDN
     order: 300
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-2d10819d-cbcc-4ec3-b67d-8e71f1406128:
     display: false
@@ -610,7 +610,7 @@ components:
     id: synthetics-69a2b577-62e0-4c82-8aaa-8c0c19bca209
     link: ''
     name: Website Tokyo
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-7d70135e-afcd-4c31-bb15-93e3799eeec1:
     display: true
@@ -619,7 +619,7 @@ components:
     link: ''
     name: Website
     order: 500
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-7e1ae044-0662-4bd4-8ae8-82eb0c09e679:
     display: true
@@ -637,7 +637,7 @@ components:
     link: ''
     name: Website CDN
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe:
     display: true
@@ -645,7 +645,7 @@ components:
     id: synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe
     link: ''
     name: Website Snippets Stats Tokyo
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-8e17eadc-a911-41ed-bd74-54a4c357d762:
     display: true
@@ -654,7 +654,7 @@ components:
     link: ''
     name: Website US-west
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-9340449f-adc3-4e14-bbb4-20c20caff847:
     display: true
@@ -689,7 +689,7 @@ components:
     link: ''
     name: Website
     order: 200
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-b51cc5e3-e9fd-4d65-afc1-f8c198e92cc3:
     display: true
@@ -706,7 +706,7 @@ components:
     id: synthetics-c522e6af-3fa1-4aa4-9382-943ddf79c46d
     link: ''
     name: Website US-East
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-c88c9131-1412-4687-bd01-05193089dfce:
     display: true
@@ -715,7 +715,7 @@ components:
     link: ''
     name: Website
     order: 400
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true
@@ -741,7 +741,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-e5fd4c88-4ccd-45af-b0d9-065026f089cd:
     display: true

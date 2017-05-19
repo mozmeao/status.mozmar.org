@@ -445,7 +445,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: failed
+    status: warning
     type: newrelic
   nr-18375214:
     display: false
@@ -778,5 +778,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

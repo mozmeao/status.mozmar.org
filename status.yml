@@ -317,7 +317,7 @@ components:
     link: ''
     name: Application US-West
     order: 410
-    status: healthy
+    status: failed
     type: newrelic
   nr-13688073:
     display: true
@@ -874,5 +874,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: All systems healthy
-  status: healthy
+  message: Some systems are in trouble
+  status: failed

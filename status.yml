@@ -30,7 +30,7 @@ components:
     link: ''
     name: Queue EU-West
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-2b20aff8d3:
     display: false
@@ -96,7 +96,7 @@ components:
     link: ''
     name: Queue US-West
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-7311a3e4db:
     display: false
@@ -105,7 +105,7 @@ components:
     link: ''
     name: Basket Stage Queue - EU-West
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-8166cac951:
     display: true
@@ -122,7 +122,7 @@ components:
     id: dms-8bf805acc6
     link: ''
     name: Basket Prod Queue - Tokyo
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-943d73ab83:
     display: true
@@ -155,7 +155,7 @@ components:
     id: dms-d46cd45930
     link: ''
     name: Basket Stage Queue - US-West
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-e7b32a3078:
     display: true
@@ -874,5 +874,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: Some systems are in trouble
+  status: failed

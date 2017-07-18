@@ -813,7 +813,7 @@ components:
     group: Infrastructure
     id: synthetics-951acc95-95a6-4d27-aabc-2249f1fc286d
     link: ''
-    name: MozMar Status Board
+    name: MozMEAO Status Board
     order: 1500
     status: healthy
     type: synthetics

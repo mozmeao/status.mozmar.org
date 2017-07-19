@@ -645,7 +645,7 @@ components:
     id: nr-30227071
     link: ''
     name: snippets-prod-frankfurt
-    status: failed
+    status: warning
     type: newrelic
   nr-30264751:
     display: true
@@ -930,5 +930,5 @@ components:
     status: healthy
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

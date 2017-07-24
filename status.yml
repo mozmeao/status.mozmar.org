@@ -509,7 +509,7 @@ components:
     id: nr-25359421
     link: ''
     name: Application Virginia
-    status: healthy
+    status: pending
     type: newrelic
   nr-25359551:
     display: true

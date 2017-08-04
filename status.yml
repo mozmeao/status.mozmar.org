@@ -38,7 +38,7 @@ components:
     link: ''
     name: Queue EU-West
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-2b20aff8d3:
     display: false
@@ -113,7 +113,7 @@ components:
     link: ''
     name: Basket Stage Queue - EU-West
     order: 420
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-8166cac951:
     display: true
@@ -172,7 +172,7 @@ components:
     link: ''
     name: Periodic Tasks - EU-West
     order: 120
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-ed6363a1ed:
     display: true

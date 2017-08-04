@@ -205,7 +205,7 @@ components:
     id: nr-13687560
     link: ''
     name: snippets-stage-eu-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687580:
     display: true
@@ -222,7 +222,7 @@ components:
     id: nr-13687607
     link: ''
     name: basket-dev-eu-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687628:
     display: false
@@ -230,7 +230,7 @@ components:
     id: nr-13687628
     link: ''
     name: basket-stage-eu-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687653:
     display: true
@@ -239,7 +239,7 @@ components:
     link: ''
     name: Application EU-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687704:
     display: true

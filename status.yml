@@ -820,7 +820,7 @@ components:
     link: ''
     name: Website EU-West
     order: 301
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-81a0480c-5c13-4539-8063-a38472f3d2d2:
     display: true
@@ -924,7 +924,7 @@ components:
     link: https://snippets-stats.eu-west.moz.works
     name: Website Snippets Stats EU-West
     order: 305
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-ce6d2674-186d-48a2-be1d-fd0066997ef1:
     display: true
@@ -949,7 +949,7 @@ components:
     link: ''
     name: Website EU-West
     order: 100
-    status: healthy
+    status: failed
     type: synthetics
   synthetics-e5fd4c88-4ccd-45af-b0d9-065026f089cd:
     display: true
@@ -1002,5 +1002,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: Some systems are in trouble
+  status: failed

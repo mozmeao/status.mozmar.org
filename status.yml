@@ -669,7 +669,7 @@ components:
     id: nr-30264751
     link: ''
     name: basket-prod-frankfurt
-    status: healthy
+    status: failed
     type: newrelic
   nr-30264760:
     display: true

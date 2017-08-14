@@ -298,7 +298,7 @@ components:
     id: nr-13687975
     link: ''
     name: basket-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13687987:
     display: true
@@ -307,7 +307,7 @@ components:
     link: ''
     name: Application US-West
     order: 310
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688011:
     display: true
@@ -324,7 +324,7 @@ components:
     id: nr-13688024
     link: ''
     name: basket-dev-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688032:
     display: true
@@ -359,7 +359,7 @@ components:
     link: ''
     name: Admin Application US-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13698376:
     display: false
@@ -375,7 +375,7 @@ components:
     id: nr-13701297
     link: ''
     name: bedrock-dev-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13701320:
     display: false
@@ -399,7 +399,7 @@ components:
     id: nr-13708738
     link: ''
     name: developer.allizom.org
-    status: pending
+    status: healthy
     type: newrelic
   nr-13710560:
     display: false
@@ -434,7 +434,7 @@ components:
     link: ''
     name: Kumascript Application
     order: 210
-    status: pending
+    status: healthy
     type: newrelic
   nr-13792729:
     display: false
@@ -460,7 +460,7 @@ components:
     id: nr-13851870
     link: ''
     name: developer-dev.allizom.org
-    status: pending
+    status: healthy
     type: newrelic
   nr-16405643:
     display: false
@@ -477,7 +477,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: pending
+    status: healthy
     type: newrelic
   nr-18375214:
     display: false
@@ -613,7 +613,7 @@ components:
     id: nr-28890703
     link: ''
     name: basket-stage-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-28891406:
     display: true
@@ -629,7 +629,7 @@ components:
     id: nr-28891417
     link: ''
     name: basket-prod-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-28920779:
     display: true
@@ -653,7 +653,7 @@ components:
     id: nr-30140034
     link: ''
     name: bedrock-stage-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-30227071:
     display: true
@@ -669,7 +669,7 @@ components:
     id: nr-30264751
     link: ''
     name: basket-prod-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-30264760:
     display: true
@@ -677,7 +677,7 @@ components:
     id: nr-30264760
     link: ''
     name: basket-stage-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-30335118:
     display: true
@@ -685,7 +685,7 @@ components:
     id: nr-30335118
     link: ''
     name: careers-prod-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-30862774:
     display: true

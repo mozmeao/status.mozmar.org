@@ -282,7 +282,7 @@ components:
     id: nr-13687960
     link: ''
     name: careers-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687969:
     display: false
@@ -375,7 +375,7 @@ components:
     id: nr-13701297
     link: ''
     name: bedrock-dev-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701320:
     display: false
@@ -391,7 +391,7 @@ components:
     id: nr-13708399
     link: ''
     name: developer.allizom.org-kumascript
-    status: healthy
+    status: pending
     type: newrelic
   nr-13708738:
     display: false
@@ -460,7 +460,7 @@ components:
     id: nr-13851870
     link: ''
     name: developer-dev.allizom.org
-    status: healthy
+    status: pending
     type: newrelic
   nr-16405643:
     display: false
@@ -468,7 +468,7 @@ components:
     id: nr-16405643
     link: ''
     name: Python Application
-    status: healthy
+    status: pending
     type: newrelic
   nr-16486292:
     display: true
@@ -477,7 +477,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: healthy
+    status: pending
     type: newrelic
   nr-18375214:
     display: false
@@ -493,7 +493,7 @@ components:
     id: nr-18380313
     link: ''
     name: standup-prod
-    status: healthy
+    status: pending
     type: newrelic
   nr-20955446:
     display: false
@@ -533,7 +533,7 @@ components:
     id: nr-25359551
     link: ''
     name: Application Tokyo
-    status: healthy
+    status: pending
     type: newrelic
   nr-27934018:
     display: true
@@ -685,7 +685,7 @@ components:
     id: nr-30335118
     link: ''
     name: careers-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30862774:
     display: true
@@ -693,7 +693,7 @@ components:
     id: nr-30862774
     link: ''
     name: nucleus-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   synthetics-0bc5585c-c952-4526-97d9-542663b1f075:
     display: true

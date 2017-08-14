@@ -282,7 +282,7 @@ components:
     id: nr-13687960
     link: ''
     name: careers-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13687969:
     display: false
@@ -350,7 +350,7 @@ components:
     id: nr-13688101
     link: ''
     name: bedrock-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688108:
     display: true
@@ -468,7 +468,7 @@ components:
     id: nr-16405643
     link: ''
     name: Python Application
-    status: pending
+    status: healthy
     type: newrelic
   nr-16486292:
     display: true

@@ -845,7 +845,7 @@ components:
     link: ''
     name: Website CDN
     order: 100
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe:
     display: true
@@ -1026,5 +1026,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

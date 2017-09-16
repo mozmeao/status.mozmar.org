@@ -5,7 +5,7 @@ components:
     id: dms-033e342441
     link: ''
     name: Snippets Stage Update Product Details
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-04ba5fae00:
     display: true

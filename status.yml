@@ -342,7 +342,7 @@ components:
     link: ''
     name: Application US-West
     order: 110
-    status: warning
+    status: failed
     type: newrelic
   nr-13688101:
     display: false
@@ -1042,5 +1042,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: Some systems are in trouble
+  status: failed

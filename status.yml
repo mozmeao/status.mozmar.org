@@ -797,7 +797,7 @@ components:
     id: nr-34459625
     link: ''
     name: kuma-api-prod-portland
-    status: healthy
+    status: pending
     type: newrelic
   synthetics-0565c931-ee65-4f89-a125-1b61eb27a10e:
     display: true

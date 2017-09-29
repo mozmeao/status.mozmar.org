@@ -789,7 +789,7 @@ components:
     id: nr-34459612
     link: ''
     name: kuma-web-prod-portland
-    status: pending
+    status: healthy
     type: newrelic
   nr-34459625:
     display: true
@@ -797,7 +797,7 @@ components:
     id: nr-34459625
     link: ''
     name: kuma-api-prod-portland
-    status: pending
+    status: healthy
     type: newrelic
   synthetics-0565c931-ee65-4f89-a125-1b61eb27a10e:
     display: true
@@ -1025,7 +1025,7 @@ components:
     link: ''
     name: Website
     order: 200
-    status: failed
+    status: healthy
     type: synthetics
   synthetics-b51cc5e3-e9fd-4d65-afc1-f8c198e92cc3:
     display: true
@@ -1138,5 +1138,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

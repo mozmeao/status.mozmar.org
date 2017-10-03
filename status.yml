@@ -171,7 +171,7 @@ components:
     id: dms-b6a8280917
     link: ''
     name: Status Board Update
-    status: healthy
+    status: paused
     type: deadmanssnitch
   dms-d46cd45930:
     display: false
@@ -573,7 +573,7 @@ components:
     id: nr-27937483
     link: ''
     name: bedrock-dev-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-27945604:
     display: true

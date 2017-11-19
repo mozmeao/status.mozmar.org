@@ -146,7 +146,7 @@ components:
     link: ''
     name: Update Product Details
     order: 320
-    status: failed
+    status: paused
     type: deadmanssnitch
   dms-8bf805acc6:
     display: true
@@ -1306,5 +1306,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

@@ -901,7 +901,7 @@ components:
     id: nr-34476941
     link: ''
     name: kuma-web-stage-portland
-    status: healthy
+    status: failed
     type: newrelic
   nr-34476949:
     display: true

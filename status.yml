@@ -126,7 +126,7 @@ components:
     id: dms-3ea402d1d7
     link: ''
     name: Status Board Update (Stage)
-    status: failed
+    status: healthy
     type: deadmanssnitch
   dms-5f1982f38a:
     display: true

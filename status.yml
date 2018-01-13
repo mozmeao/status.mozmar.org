@@ -187,7 +187,7 @@ components:
     link: ''
     name: Greenhouse Sync
     order: 520
-    status: failed
+    status: paused
     type: deadmanssnitch
   dms-954702c307:
     display: true
@@ -1546,5 +1546,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

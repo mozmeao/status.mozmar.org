@@ -1117,7 +1117,7 @@ components:
     id: nr-35599138
     link: ''
     name: kumascript-stage-oregon-b
-    status: pending
+    status: warning
     type: newrelic
   nr-44796206:
     display: true

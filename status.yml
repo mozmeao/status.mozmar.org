@@ -1127,6 +1127,14 @@ components:
     name: bedrock-stage-oregon-b
     status: healthy
     type: newrelic
+  nr-41846435:
+    display: true
+    group: null
+    id: nr-41846435
+    link: ''
+    name: bedrock-prod-oregon-b
+    status: pending
+    type: newrelic
   nr-44796206:
     display: true
     group: null

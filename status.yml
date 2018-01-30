@@ -362,7 +362,7 @@ components:
     id: nr-13687975
     link: ''
     name: basket-stage-us-west
-    status: healthy
+    status: failed
     type: newrelic
   nr-13687987:
     display: true

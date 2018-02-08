@@ -1769,7 +1769,7 @@ components:
     link: ''
     name: Website
     order: 200
-    status: warning
+    status: failed
     type: synthetics
   synthetics-b51cc5e3-e9fd-4d65-afc1-f8c198e92cc3:
     display: true
@@ -1795,7 +1795,7 @@ components:
     link: ''
     name: Website
     order: 400
-    status: warning
+    status: healthy
     type: synthetics
   synthetics-c8c2dd43-5f4f-40da-a012-c450d42fc32e:
     display: true
@@ -1882,5 +1882,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: Some systems are in trouble
+  status: failed

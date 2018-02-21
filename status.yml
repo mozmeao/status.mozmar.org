@@ -1455,6 +1455,14 @@ components:
     name: snippets-admin-oregon-b
     status: healthy
     type: newrelic
+  nr-44068384:
+    display: true
+    group: null
+    id: nr-44068384
+    link: ''
+    name: sumo-dev-frankfurt
+    status: healthy
+    type: newrelic
   nr-44796206:
     display: true
     group: null

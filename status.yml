@@ -1717,7 +1717,7 @@ components:
     id: nr-44068384
     link: ''
     name: sumo-dev-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-44796206:
     display: true

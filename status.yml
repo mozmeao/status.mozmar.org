@@ -1973,7 +1973,7 @@ components:
     link: ''
     name: Website CDN
     order: 100
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-84a8a110-0fb6-48b2-bd0c-caf07ba65dfe:
     display: true
@@ -2015,7 +2015,7 @@ components:
     link: ''
     name: MozMEAO Status Board
     order: 1500
-    status: healthy
+    status: warning
     type: synthetics
   synthetics-9bdfee59-5c8a-4e90-9644-1f03e2a0b5b4:
     display: true

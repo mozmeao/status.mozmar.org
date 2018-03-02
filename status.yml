@@ -1733,7 +1733,7 @@ components:
     id: nr-44876743
     link: ''
     name: sumo-stage-oregon-b
-    status: healthy
+    status: failed
     type: newrelic
   nr-49153829:
     display: true

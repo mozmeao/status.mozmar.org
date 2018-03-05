@@ -1767,6 +1767,14 @@ components:
     name: sumo-stage-frankfurt
     status: healthy
     type: newrelic
+  nr-45103938:
+    display: true
+    group: null
+    id: nr-45103938
+    link: ''
+    name: sumo-prod-frankfurt
+    status: healthy
+    type: newrelic
   nr-49153829:
     display: true
     group: null

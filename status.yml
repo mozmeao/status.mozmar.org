@@ -1791,6 +1791,14 @@ components:
     name: basket-stage-oregon-a
     status: healthy
     type: newrelic
+  nr-45315305:
+    display: true
+    group: null
+    id: nr-45315305
+    link: ''
+    name: basket-prod-oregon-a
+    status: healthy
+    type: newrelic
   nr-49153829:
     display: true
     group: null

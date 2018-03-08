@@ -1781,7 +1781,7 @@ components:
     id: nr-45305772
     link: ''
     name: basket-dev-oregon-a
-    status: pending
+    status: healthy
     type: newrelic
   nr-45314266:
     display: true
@@ -1805,7 +1805,7 @@ components:
     id: nr-45315583
     link: ''
     name: basket-admin-oregon-a
-    status: pending
+    status: healthy
     type: newrelic
   nr-49153829:
     display: true

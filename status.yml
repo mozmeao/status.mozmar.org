@@ -627,7 +627,7 @@ components:
     id: dms-af5e333a31
     link: ''
     name: '[dev] SUMO Send Welcome Emails'
-    status: failed
+    status: healthy
     type: deadmanssnitch
   dms-b2ae8bfb32:
     display: true
@@ -2274,5 +2274,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

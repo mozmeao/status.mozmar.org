@@ -975,7 +975,7 @@ components:
     id: nr-13701297
     link: ''
     name: bedrock-dev-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701320:
     display: false
@@ -1381,7 +1381,7 @@ components:
     id: nr-30264751
     link: ''
     name: basket-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30264760:
     display: true
@@ -1661,7 +1661,7 @@ components:
     id: nr-41843395
     link: ''
     name: bedrock-stage-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41846435:
     display: true
@@ -1669,7 +1669,7 @@ components:
     id: nr-41846435
     link: ''
     name: bedrock-prod-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41848799:
     display: true
@@ -1773,7 +1773,7 @@ components:
     id: nr-44876743
     link: ''
     name: sumo-stage-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-45097089:
     display: true

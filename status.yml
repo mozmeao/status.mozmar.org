@@ -898,7 +898,7 @@ components:
     id: nr-13687975
     link: ''
     name: basket-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687987:
     display: true
@@ -959,7 +959,7 @@ components:
     link: ''
     name: Admin Application US-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13698376:
     display: false
@@ -967,7 +967,7 @@ components:
     id: nr-13698376
     link: ''
     name: basket-admin-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701297:
     display: false
@@ -1007,7 +1007,7 @@ components:
     id: nr-13710560
     link: ''
     name: support.allizom.org
-    status: healthy
+    status: pending
     type: newrelic
   nr-13778280:
     display: false
@@ -1052,7 +1052,7 @@ components:
     link: ''
     name: Application
     order: 610
-    status: healthy
+    status: pending
     type: newrelic
   nr-13851870:
     display: false
@@ -1068,7 +1068,7 @@ components:
     id: nr-16405643
     link: ''
     name: Python Application
-    status: healthy
+    status: pending
     type: newrelic
   nr-16486292:
     display: true
@@ -1245,7 +1245,7 @@ components:
     id: nr-25359551
     link: ''
     name: Application Tokyo
-    status: healthy
+    status: pending
     type: newrelic
   nr-27934018:
     display: true
@@ -1293,7 +1293,7 @@ components:
     id: nr-27945762
     link: ''
     name: bedrock-stage-tokyo
-    status: healthy
+    status: pending
     type: newrelic
   nr-28424813:
     display: true
@@ -1341,7 +1341,7 @@ components:
     id: nr-28891417
     link: ''
     name: basket-prod-tokyo
-    status: healthy
+    status: pending
     type: newrelic
   nr-28920779:
     display: true
@@ -1389,7 +1389,7 @@ components:
     id: nr-30264760
     link: ''
     name: basket-stage-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30335118:
     display: true
@@ -1405,7 +1405,7 @@ components:
     id: nr-30862774
     link: ''
     name: nucleus-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30864897:
     display: true
@@ -1581,7 +1581,7 @@ components:
     id: nr-34593864
     link: ''
     name: kuma-backend-stage-portland
-    status: healthy
+    status: pending
     type: newrelic
   nr-34595609:
     display: true
@@ -1605,7 +1605,7 @@ components:
     id: nr-34601215
     link: ''
     name: kumascript-prod-portland
-    status: healthy
+    status: pending
     type: newrelic
   nr-34690278:
     display: true
@@ -1733,7 +1733,7 @@ components:
     id: nr-41872008
     link: ''
     name: snippets-stage-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41872171:
     display: true

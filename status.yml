@@ -1847,6 +1847,14 @@ components:
     name: basket-admin-oregon-a
     status: healthy
     type: newrelic
+  nr-48273428:
+    display: true
+    group: null
+    id: nr-48273428
+    link: ''
+    name: bedrock-dev-oregon-b
+    status: healthy
+    type: newrelic
   nr-49153829:
     display: true
     group: null

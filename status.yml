@@ -967,7 +967,7 @@ components:
     id: nr-13698376
     link: ''
     name: basket-admin-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13701297:
     display: false
@@ -1285,7 +1285,7 @@ components:
     id: nr-27945751
     link: ''
     name: bedrock-prod-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-27945762:
     display: true

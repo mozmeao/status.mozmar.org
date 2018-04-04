@@ -1077,7 +1077,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: pending
+    status: healthy
     type: newrelic
   nr-18375214:
     display: false
@@ -1397,7 +1397,7 @@ components:
     id: nr-30335118
     link: ''
     name: careers-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30862774:
     display: true
@@ -1541,7 +1541,7 @@ components:
     id: nr-34476932
     link: ''
     name: kuma-stage-portland
-    status: pending
+    status: healthy
     type: newrelic
   nr-34476937:
     display: true
@@ -1597,7 +1597,7 @@ components:
     id: nr-34601198
     link: ''
     name: kuma-backend-prod-portland
-    status: pending
+    status: healthy
     type: newrelic
   nr-34601215:
     display: true
@@ -1725,7 +1725,7 @@ components:
     id: nr-41870686
     link: ''
     name: careers-prod-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41872008:
     display: true

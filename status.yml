@@ -942,7 +942,7 @@ components:
     link: ''
     name: Application US-West
     order: 110
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688101:
     display: false
@@ -950,7 +950,7 @@ components:
     id: nr-13688101
     link: ''
     name: bedrock-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688108:
     display: true
@@ -1093,7 +1093,7 @@ components:
     id: nr-18380313
     link: ''
     name: standup-prod
-    status: healthy
+    status: pending
     type: newrelic
   nr-20620169:
     display: true
@@ -1269,7 +1269,7 @@ components:
     id: nr-27937483
     link: ''
     name: bedrock-dev-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-27945604:
     display: true
@@ -1325,7 +1325,7 @@ components:
     id: nr-28890703
     link: ''
     name: basket-stage-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-28891406:
     display: true
@@ -1357,7 +1357,7 @@ components:
     id: nr-29313714
     link: ''
     name: bedrock-prod-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-30140034:
     display: true
@@ -1365,7 +1365,7 @@ components:
     id: nr-30140034
     link: ''
     name: bedrock-stage-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30227071:
     display: true
@@ -1429,7 +1429,7 @@ components:
     id: nr-32344104
     link: ''
     name: bedrock-dev-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-34026072:
     display: true
@@ -1613,7 +1613,7 @@ components:
     id: nr-34690278
     link: ''
     name: snippets-stage-tokyo
-    status: pending
+    status: healthy
     type: newrelic
   nr-35339380:
     display: true
@@ -1621,7 +1621,7 @@ components:
     id: nr-35339380
     link: ''
     name: kumascript-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-35339383:
     display: true
@@ -1701,7 +1701,7 @@ components:
     id: nr-41854835
     link: ''
     name: basket-prod-oregon-b
-    status: pending
+    status: healthy
     type: newrelic
   nr-41856975:
     display: true

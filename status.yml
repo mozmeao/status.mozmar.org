@@ -1052,7 +1052,7 @@ components:
     link: ''
     name: Application
     order: 610
-    status: pending
+    status: healthy
     type: newrelic
   nr-13851870:
     display: false
@@ -1405,7 +1405,7 @@ components:
     id: nr-30862774
     link: ''
     name: nucleus-prod-frankfurt
-    status: healthy
+    status: pending
     type: newrelic
   nr-30864897:
     display: true
@@ -1733,7 +1733,7 @@ components:
     id: nr-41872008
     link: ''
     name: snippets-stage-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41872171:
     display: true
@@ -1781,7 +1781,7 @@ components:
     id: nr-45097089
     link: ''
     name: sumo-prod-oregon-b
-    status: pending
+    status: healthy
     type: newrelic
   nr-45097944:
     display: true
@@ -1853,7 +1853,7 @@ components:
     id: nr-48273428
     link: ''
     name: bedrock-dev-oregon-b
-    status: pending
+    status: healthy
     type: newrelic
   nr-49153829:
     display: true

@@ -797,7 +797,7 @@ components:
     id: nr-13674646
     link: ''
     name: support-dev.allizom.org
-    status: pending
+    status: healthy
     type: newrelic
   nr-13687503:
     display: false
@@ -874,7 +874,7 @@ components:
     link: ''
     name: Application US-West
     order: 510
-    status: pending
+    status: healthy
     type: newrelic
   nr-13687960:
     display: false
@@ -890,7 +890,7 @@ components:
     id: nr-13687969
     link: ''
     name: snippets-stage-us-west
-    status: pending
+    status: healthy
     type: newrelic
   nr-13687975:
     display: false
@@ -924,7 +924,7 @@ components:
     id: nr-13688024
     link: ''
     name: basket-dev-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688032:
     display: true
@@ -933,7 +933,7 @@ components:
     link: ''
     name: Application US-West
     order: 410
-    status: pending
+    status: healthy
     type: newrelic
   nr-13688073:
     display: true
@@ -1637,7 +1637,7 @@ components:
     id: nr-35339385
     link: ''
     name: kuma-prod-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-35339412:
     display: true
@@ -1645,7 +1645,7 @@ components:
     id: nr-35339412
     link: ''
     name: kuma-web-prod-frankfurt
-    status: pending
+    status: healthy
     type: newrelic
   nr-35599138:
     display: true
@@ -1669,7 +1669,7 @@ components:
     id: nr-41846435
     link: ''
     name: bedrock-prod-oregon-b
-    status: healthy
+    status: pending
     type: newrelic
   nr-41848799:
     display: true

@@ -890,7 +890,7 @@ components:
     id: nr-13687969
     link: ''
     name: snippets-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687975:
     display: false

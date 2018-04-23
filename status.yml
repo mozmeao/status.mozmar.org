@@ -555,7 +555,7 @@ components:
     link: ''
     name: Greenhouse Sync
     order: 520
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-94977220c7:
     display: true

@@ -715,7 +715,7 @@ components:
     id: dms-d46cd45930
     link: ''
     name: Basket Stage Queue - US-West
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-d58186084b:
     display: true

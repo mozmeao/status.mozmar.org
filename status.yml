@@ -890,7 +890,7 @@ components:
     link: ''
     name: Application US-West
     order: 510
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687960:
     display: false
@@ -898,7 +898,7 @@ components:
     id: nr-13687960
     link: ''
     name: careers-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687969:
     display: false
@@ -914,7 +914,7 @@ components:
     id: nr-13687975
     link: ''
     name: basket-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13687987:
     display: true
@@ -923,7 +923,7 @@ components:
     link: ''
     name: Application US-West
     order: 310
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688011:
     display: true
@@ -940,7 +940,7 @@ components:
     id: nr-13688024
     link: ''
     name: basket-dev-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688032:
     display: true
@@ -949,7 +949,7 @@ components:
     link: ''
     name: Application US-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688073:
     display: true
@@ -958,7 +958,7 @@ components:
     link: ''
     name: Application US-West
     order: 110
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688101:
     display: false
@@ -966,7 +966,7 @@ components:
     id: nr-13688101
     link: ''
     name: bedrock-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13688108:
     display: true
@@ -975,7 +975,7 @@ components:
     link: ''
     name: Admin Application US-West
     order: 410
-    status: healthy
+    status: pending
     type: newrelic
   nr-13698376:
     display: false
@@ -983,7 +983,7 @@ components:
     id: nr-13698376
     link: ''
     name: basket-admin-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701297:
     display: false
@@ -991,7 +991,7 @@ components:
     id: nr-13701297
     link: ''
     name: bedrock-dev-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-13701320:
     display: false
@@ -1093,7 +1093,7 @@ components:
     link: ''
     name: Nucleus Application US-West
     order: 110
-    status: healthy
+    status: pending
     type: newrelic
   nr-18375214:
     display: false
@@ -1181,7 +1181,7 @@ components:
     id: nr-20955446
     link: ''
     name: nucleus-stage-us-west
-    status: healthy
+    status: pending
     type: newrelic
   nr-21630579:
     display: true

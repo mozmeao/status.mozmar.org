@@ -691,7 +691,7 @@ components:
     id: dms-c9f1cbe6fe
     link: ''
     name: '[prod] SUMO Process Exit Surveys'
-    status: failed
+    status: healthy
     type: deadmanssnitch
   dms-ca28534747:
     display: true

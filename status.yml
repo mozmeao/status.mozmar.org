@@ -246,7 +246,7 @@ components:
     id: dms-3026bce6d3
     link: ''
     name: Docker Cleanup Service - US-West
-    status: failed
+    status: warning
     type: deadmanssnitch
   dms-3c73097af7:
     display: true
@@ -4026,5 +4026,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are in trouble
-  status: failed
+  message: Some systems are experiencing issues
+  status: warning

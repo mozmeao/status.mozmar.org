@@ -587,7 +587,7 @@ components:
     id: dms-954702c307
     link: ''
     name: MDN Frankfurt sync from S3
-    status: healthy
+    status: failed
     type: deadmanssnitch
   dms-967339e3dc:
     display: true
@@ -4026,5 +4026,5 @@ components:
     status: warning
     type: synthetics
 globalStatus:
-  message: Some systems are experiencing issues
-  status: warning
+  message: Some systems are in trouble
+  status: failed
